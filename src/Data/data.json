@@ -6,6 +6,16 @@
         "title" : "String"
     },
     {
+        "title" : "Linked List"
+    },
+    {
+        "title" : "Tree"
+    },
+    
+    {
+        "title" : "Graph"
+    },
+    {
         "title" : "Two Pointer"
     },
     {
@@ -16,6 +26,9 @@
     },
     {
         "title" : "Sorting"
+    },
+    {
+        "title" : "Intervals"
     },
     {
         "title" : "Recursion"
@@ -42,20 +55,22 @@
         "title" : "Binary Search"
     },
     {
-        "title" : "Binary Tree"
-    },
-    {
-        "title" : "Binary Search Tree"
-    },
-    {
-        "title" : "Linked List"
-    },
-    {
-        "title" : "Graph"
+        "title" : "Dynamic Programming"
     },
     {
         "title" : "Trie"
     },
+    {
+        "title" : "Math"
+    },
+    
+    {
+        "title" : "Bit Manipulation"
+    },
+    {
+        "title" : "Geomatry Problems"
+    },
+    
     {
         "title" : "Design DS"
     }

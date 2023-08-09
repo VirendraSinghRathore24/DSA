@@ -8,8 +8,7 @@ function HomePage() {
     const [posts, setPosts] = useState([]);
     async function fetchBlogsData(){
         setLoading(true);
-        try{
-
+        try{          
             setPosts(data);
   
         }
