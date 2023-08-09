@@ -7,7 +7,12 @@
     },
     {
         "title" : "Find element in Sorted Rotated Array with Duplicate Elements"
+    },
+    {
+        "title" : "Find minimum element in Sorted Rotated Array"
+    },
+    {
+        "title" : "Find minimum element in Sorted Rotated Array with Duplicate Elements"
     }
-    
    
 ]
