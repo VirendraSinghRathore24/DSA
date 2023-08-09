@@ -1,0 +1,63 @@
+[
+    {
+        "title" : "Array"
+    },
+    {
+        "title" : "String"
+    },
+    {
+        "title" : "Two Pointer"
+    },
+    {
+        "title" : "Hashing"
+    },
+    {
+        "title" : "Greedy"
+    },
+    {
+        "title" : "Sorting"
+    },
+    {
+        "title" : "Recursion"
+    },
+    {
+        "title" : "Backtracking"
+    },
+    {
+        "title" : "Stack"
+    },
+    {
+        "title" : "Queue"
+    },
+    {
+        "title" : "Sliding Window"
+    },
+    {
+        "title" : "Heap"
+    },
+    {
+        "title" : "Matrix"
+    },
+    {
+        "title" : "Binary Search"
+    },
+    {
+        "title" : "Binary Tree"
+    },
+    {
+        "title" : "Binary Search Tree"
+    },
+    {
+        "title" : "Linked List"
+    },
+    {
+        "title" : "Graph"
+    },
+    {
+        "title" : "Trie"
+    },
+    {
+        "title" : "Design DS"
+    }
+   
+]
