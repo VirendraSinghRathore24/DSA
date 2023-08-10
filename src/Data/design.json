@@ -1,0 +1,62 @@
+[
+    {
+        "title" : "LRU"
+    },
+    {
+        "title" : "LFU"
+    },
+    {
+        "title" : "Design Stack using Queues"
+    },
+    {
+        "title" : "Design Queue using Stacks"
+    },
+    {
+        "title" : "Design File System"
+    },
+    {
+        "title" : "Design In-Memory File System"
+    },
+    {
+        "title" : "Design Tic-Tac-Toe"
+    },
+    {
+        "title" : "Design Min Stack - O(1)"
+    },
+    {
+        "title" : "Design Hit Counter"
+    },
+    {
+        "title" : "Design Log Rate Limitter"
+    },
+    {
+        "title" : "Insert Delete GetRandom in O(1)"
+    },
+    {
+        "title" : "BST Iterator I & II"
+    },
+    {
+        "title" : "Snapshot Array"
+    },
+    {
+        "title" : "Snake Game"
+    },
+    {
+        "title" : "Design Add and Search Words Data Structure"
+    },
+    {
+        "title" : "Design Search Autocomplete System"
+    },
+    {
+        "title" : "Design Browser History"
+    },
+    {
+        "title" : "Design Twitter"
+    },
+    {
+        "title" : "Flatten Nested List Iterator"
+    },
+    {
+        "title" : "Time Based Key-Value Store"
+    }
+]
