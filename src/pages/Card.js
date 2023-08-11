@@ -7,9 +7,9 @@ function Card({post}) {
     <div>
          <div className='relative pointer-events-auto '>
          <NavLink to={`/${post.title.replaceAll(" ", "-")}`}>
-                <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1691590733/woodbg_h94qy0.webp" className='w-[320px] h-[280px] rounded-md' loading='lazy'/>
+                <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1691771634/texture-1027701_1280_aq96u3.jpg" className='w-[320px] h-[280px] rounded-md' loading='lazy'/>
                     
-                <div className='absolute text-stone-950 bottom-0 px-4 text-left'>
+                <div className='absolute text-white bottom-0 px-4 text-left'>
                     <p className='text-[30px] font-semibold'>{post.title}</p>
                     <div className='py-10'>
                     

@@ -46,7 +46,7 @@ function Content() {
                     posts.map((post, index) => (
                         
                             <tr className="border-b dark:border-neutral-500">
-                            <td><input type='checkbox' value="test"></input></td>
+                         
                                 <td className="whitespace-nowrap px-6 py-4 font-medium">{index + 1} .</td>
                                 <td className="whitespace-wrap text-[16px] font-medium px-6 py-4">{post.title}</td>
                             </tr>
