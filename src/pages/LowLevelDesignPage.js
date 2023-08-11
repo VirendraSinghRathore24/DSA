@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react'
 import { NavLink } from 'react-router-dom'
 
-import data from '../Data/design.json'
+import data from '../Data/lld.json'
 
-function DesignPage() {
+function LowLevelDesignPage() {
     const [loading, setLoading] = useState(false);
     const [posts, setPosts] = useState([]);
     async function fetchBlogsData(){
@@ -66,4 +66,4 @@ function DesignPage() {
   )
 }
 
-export default DesignPage
+export default LowLevelDesignPage

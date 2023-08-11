@@ -1,0 +1,35 @@
+[
+    {
+        "title" : "Parking Lot"
+    },
+    {
+        "title" : "Elevator System"
+    },
+    {
+        "title" : "Book Rental System"
+    },
+    {
+        "title" : "Vending Machine"
+    },
+    {
+        "title" : "Snake and Ladder"
+    },
+    {
+        "title" : "Tic Tac Toe"
+    },
+    {
+        "title" : "Splitwise"
+    },
+    {
+        "title" : "Task Schedular"
+    },
+    {
+        "title" : "Communicate between two process"
+    },
+    {
+        "title" : "Some threading concept"
+    },
+    {
+        "title" : "Design Logger - Chain of Responsibility"
+    }
+]
