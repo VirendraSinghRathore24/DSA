@@ -42,7 +42,10 @@
         "title" : "Snapshot Array"
     },
     {
-        "title" : "Snake Game"
+        "title" : "Design Snake Game"
+    },
+    {
+        "title" : "Design Snake and Ladder Game"
     },
     {
         "title" : "Design Add and Search Words Data Structure"
@@ -61,5 +64,8 @@
     },
     {
         "title" : "Time Based Key-Value Store"
+    },
+    {
+        "title" : "Design Web Crowler"
     }
 ]
