@@ -8,6 +8,7 @@ import Content from "./pages/Content";
 import DesignPage from "./pages/DesignPage";
 import SystemDesignPage from "./pages/SystemDesignPage";
 import LowLevelDesignPage from "./pages/LowLevelDesignPage";
+import DesignPatternPage from "./pages/DesignPatternPage";
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
               <Route path="/Design-DS" element={<DesignPage/>}/>
               <Route path="/System-Design" element={<SystemDesignPage/>}/>
               <Route path="/Low-Level-Design" element={<LowLevelDesignPage/>}/>
+              <Route path="/Design-Pattern" element={<DesignPatternPage/>}/>
               <Route path="/Graph" element={<GraphPage/>}/>
             </Routes>
          </div>

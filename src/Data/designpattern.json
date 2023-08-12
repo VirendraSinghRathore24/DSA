@@ -1,0 +1,41 @@
+[
+    {
+        "title" : "Singleton"
+    },
+    {
+        "title" : "Factory"
+    },
+    {
+        "title" : "Strategy"
+    },
+    {
+        "title" : "Adapter"
+    },
+    {
+        "title" : "Abstract Factory"
+    },
+    {
+        "title" : "Proxy"
+    },
+    {
+        "title" : "Builder"
+    },
+    {
+        "title" : "Decorator"
+    },
+    {
+        "title" : "Factory"
+    },
+    {
+        "title" : "Composite"
+    },
+    {
+        "title" : "Observer"
+    },
+    {
+        "title" : "State"
+    },
+    {
+        "title" : "Chain of Responsibility"
+    }
+]
