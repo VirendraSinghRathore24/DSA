@@ -38,7 +38,8 @@ function DesignPage() {
                         <tr>
                         <th scope="col" className="px-6 py-4">#</th>
                         <th scope="col" className="px-6 py-4">Problem</th>
-                
+                        <th scope="col" className="px-6 py-4">Practice</th>
+                        <th scope="col" className="px-6 py-4">Solution</th>
                         </tr>
                     </thead>
             <tbody>
@@ -49,6 +50,8 @@ function DesignPage() {
                          
                                 <td className="whitespace-nowrap px-6 py-4 font-medium">{index + 1} .</td>
                                 <td className="whitespace-wrap text-[16px] font-medium px-6 py-4">{post.title}</td>
+                                <td> <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1691844715/leetcode_qjndoy.png" className='w-[40px] h-[40px] rounded-md' loading='lazy'/></td>
+                                <td> <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1688707836/youtube-1837872_1280_oicf29.png" className='w-[40px] h-[40px] rounded-md' loading='lazy'/></td>
                             </tr>
                         
                         

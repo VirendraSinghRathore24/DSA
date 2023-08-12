@@ -6,6 +6,7 @@ import data from '../Data/simpleBinarySearch.json'
 function Content() {
     const [loading, setLoading] = useState(false);
     const [posts, setPosts] = useState([]);
+
     async function fetchBlogsData(){
         setLoading(true);
         try{
