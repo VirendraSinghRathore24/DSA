@@ -26,8 +26,12 @@ function HomePage() {
   return (
 
     
-    <div className='pointer-events-none'>
-       
+    <div className='pointer-events-none mt-2'>
+       <div>
+                <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1692210507/banner1_bj5ufc.avif' className='pointer-events-auto w-full h-[380px]'/>
+               
+                
+            </div>
         <div>
         <p className='text-md font-light py-3 px-10'><strong className='font-semibold text-richblack-700'>To Master in DSA.. Pattern based problems </strong></p>
             <div className='grid xs:grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 2xl:grid-cols-4 px-10 py-5 gap-x-10 gap-y-10'>
