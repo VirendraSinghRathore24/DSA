@@ -16,7 +16,7 @@ function Header() {
                 <ul className="flex gap-x-6">
                   <li><Link to="/">Home</Link></li>
                   <li><Link to="/aboutus">About us</Link></li>
-                  
+                  <li><Link to="/login">Login</Link></li>
                 </ul>
               </nav>
          </div>     
