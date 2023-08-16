@@ -40,6 +40,7 @@ function DesignPage() {
                         <th scope="col" className="px-6 py-4">Problem</th>
                         <th scope="col" className="px-6 py-4">Practice</th>
                         <th scope="col" className="px-6 py-4">Solution</th>
+                        <th scope="col" className="px-6 py-4">Notes</th>
                         </tr>
                     </thead>
             <tbody>
@@ -50,15 +51,20 @@ function DesignPage() {
                          
                                 <td className="whitespace-nowrap px-6 py-4 font-medium">{index + 1} .</td>
                                 <td className="whitespace-wrap text-[16px] font-medium px-6 py-4">{post.title}</td>
-                                <td className='px-6 py-4'>
+                                <td className='px-6 py-4 w-[40px] h-[40px]'>
                                     <a href={post.practiceurl} target="_blank" rel="noreferrer">
                                         <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1691844715/leetcode_qjndoy.png" className='w-[40px] h-[40px] rounded-md' loading='lazy'/>
                                     </a>
                                  </td>
-                                <td className='px-6 py-4'> 
+                                <td className='px-6 py-4 w-[40px] h-[40px]'> 
                                     <a href={post.youtubeurl} target="_blank" rel="noreferrer">
                                     <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1688707836/youtube-1837872_1280_oicf29.png" className='w-[40px] h-[40px] rounded-md' loading='lazy'/>
                                     </a>
+                                </td>
+                                <td className='px-6 py-4 w-[40px] h-[40px]'> 
+                                   
+                                    <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1692187379/sticky-note-1562149_1280_nzu1fh.png" className='w-[40px] h-[40px] rounded-md' loading='lazy'/>
+                                    
                                 </td>
                             </tr>
                     ))
