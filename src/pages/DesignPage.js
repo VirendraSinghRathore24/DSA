@@ -63,7 +63,7 @@ function DesignPage() {
                                 </td>
                                 <td className='px-6 py-4 w-[40px] h-[40px]'> 
                                    
-                                    <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1692187379/sticky-note-1562149_1280_nzu1fh.png" className='w-[40px] h-[40px] rounded-md' loading='lazy'/>
+                                    <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1692189663/notes1_apfc9m.png" className='w-[40px] h-[40px] rounded-md' loading='lazy'/>
                                     
                                 </td>
                             </tr>
