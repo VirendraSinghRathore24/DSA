@@ -27,7 +27,7 @@ function DesignPage() {
   return (
 
     
-    <div className='pointer-events-none'>
+    <div>
         <div >
             <div className='flex flex-col gap-y-5 ml-1 mt-10 font-semibold'>
             <div className="overflow-x-auto sm:-mx-6 lg:-mx-8">
@@ -50,11 +50,17 @@ function DesignPage() {
                          
                                 <td className="whitespace-nowrap px-6 py-4 font-medium">{index + 1} .</td>
                                 <td className="whitespace-wrap text-[16px] font-medium px-6 py-4">{post.title}</td>
-                                <td className='px-6 py-4'><img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1691844715/leetcode_qjndoy.png" className='w-[40px] h-[40px] rounded-md' loading='lazy'/></td>
-                                <td className='px-6 py-4'> <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1688707836/youtube-1837872_1280_oicf29.png" className='w-[40px] h-[40px] rounded-md' loading='lazy'/></td>
+                                <td className='px-6 py-4'>
+                                    <a href={post.practiceurl} target="_blank" rel="noreferrer">
+                                        <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1691844715/leetcode_qjndoy.png" className='w-[40px] h-[40px] rounded-md' loading='lazy'/>
+                                    </a>
+                                 </td>
+                                <td className='px-6 py-4'> 
+                                    <a href={post.youtubeurl} target="_blank" rel="noreferrer">
+                                    <img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1688707836/youtube-1837872_1280_oicf29.png" className='w-[40px] h-[40px] rounded-md' loading='lazy'/>
+                                    </a>
+                                </td>
                             </tr>
-                        
-                        
                     ))
                
                } 

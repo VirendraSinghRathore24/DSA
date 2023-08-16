@@ -1,9 +1,12 @@
 [
     {
-        "title" : "LRU"
+        "title" : "LRU",
+        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
     },
     {
-        "title" : "LFU"
+        "title" : "LFU",
+        "practiceurl" : "https://leetcode.com/problems/lfu-cache/"
     },
     {
         "title" : "Design Stack using Array"
