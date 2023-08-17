@@ -12,9 +12,11 @@ function TinyURL() {
                 <br/>
                 1. User should be able to create short url link for long url
                 <br/>
-                2. Short url should be unique
+                2. When user clicks on short url, it should redirect to long url
                 <br/>
-                3. User can pass unique name for url as well
+                3. Short url should be unique
+                <br/>
+                4. User can pass unique name for url as well
                 <br/>
                 <br/>
 

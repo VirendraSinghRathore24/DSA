@@ -30,7 +30,7 @@ function SystemDesignPage() {
     <div>
         <div >
         <p className='p-2 text-[16px]'><strong className='font-semibold '><NavLink to="/"> Home </NavLink></strong>  /  System Design</p>
-            <div className='flex flex-col gap-y-5 ml-10 mt-2 font-semibold'>
+            <div className='flex flex-col gap-y-5 ml-1 mt-2 font-semibold'>
             <div className="overflow-x-auto sm:-mx-6 lg:-mx-8">
                 <div className="inline-block min-w-full py-2 sm:px-6 lg:px-8">
                 <div className="overflow-hidden">
