@@ -9,8 +9,8 @@ function Footer() {
             <p className='text-2xl text-center w-full'>Join Our Community</p>
             <p className='text-xl text-center font-normal p-1'>To stay connected with Viren and receive updates on the latest post, you can connect on the following platforms</p>
               <div className='flex justify-evenly gap-x-4 py-1'>
-                <a href="https://www.instagram.com/mommygk_sanju/" target="_blank" rel="noreferrer">
-                 <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1688708911/instagram-1581266_1280_fwpbeq.jpg' alt='instagram' className='w-[50px] h-[50px]'/>
+                <a href="https://leetcode.com/Viren21/" target="_blank" rel="noreferrer">
+                 <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1691844715/leetcode_qjndoy.png' alt='instagram' className='w-[50px] h-[50px]'/>
                 </a>
                 <Link to="https://www.youtube.com/@MommyGK" target="_blank" rel="noreferrer">
                 <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1688707836/youtube-1837872_1280_oicf29.png' alt='youtube' className='w-[40px] h-[40px] mt-2'/>

@@ -12,6 +12,7 @@ import DesignPatternPage from "./pages/DesignPatternPage";
 import DataStructures from "./pages/DataStructures";
 import Footer from "./components/Footer";
 import ArrayPage from "./pages/ArrayPage";
+import AboutUS from "./components/AboutUS";
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
           <Header/>
 
             <Routes>
+              <Route path="/aboutus" element={<AboutUS/>}/>
               <Route path="/" element={<HomePage/>}/>
               <Route path="/Binary-Search" element={<SecondPage/>}/>
               <Route path="/Simple-Binary-Search" element={<Content/>}/>
