@@ -26,9 +26,9 @@ function HomePage() {
   return (
 
     
-    <div className='pointer-events-none mt-2'>
+    <div className='pointer-events-none'>
        <div>
-                <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1692210507/banner1_bj5ufc.avif' className='pointer-events-auto w-full h-[380px]'/>
+                <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1692253334/img_xlz3os.png' className='pointer-events-auto w-full h-[380px]'/>
                
                 
             </div>
