@@ -13,6 +13,7 @@ import DataStructures from "./pages/DataStructures";
 import Footer from "./components/Footer";
 import ArrayPage from "./pages/ArrayPage";
 import AboutUS from "./components/AboutUS";
+import TinyURL from "./pages/systemdesign/TinyURL";
 
 function App() {
 
@@ -32,6 +33,8 @@ function App() {
               <Route path="/Design-Pattern" element={<DesignPatternPage/>}/>
               <Route path="/Data-Structures" element={<DataStructures/>}/>
               <Route path="/Graph" element={<GraphPage/>}/>
+
+              <Route path="/tiny-url" element={<TinyURL/>}/>              
             </Routes>
             <Footer/>
          </div>
