@@ -1,0 +1,80 @@
+[
+    {
+        "title" : "Array"
+        
+    },
+    {
+        "title" : "String"
+    },
+    {
+        "title" : "Linked List"
+    },
+    {
+        "title" : "Tree"
+        
+    },
+    
+    {
+        "title" : "Graph"
+    },
+    {
+        "title" : "Two Pointer"
+    },
+    {
+        "title" : "Hashing"
+    },
+    {
+        "title" : "Greedy"
+    },
+    {
+        "title" : "Sorting"
+    },
+    {
+        "title" : "Intervals"
+    },
+    {
+        "title" : "Recursion"
+    },
+    {
+        "title" : "Backtracking"
+    },
+    {
+        "title" : "Stack"
+    },
+    {
+        "title" : "Queue"
+    },
+    {
+        "title" : "Sliding Window"
+    },
+    {
+        "title" : "Heap"
+    },
+    {
+        "title" : "Matrix"
+    },
+    {
+        "title" : "Binary Search"
+    },
+    {
+        "title" : "Dynamic Programming"
+    },
+    {
+        "title" : "Trie"
+    },
+    {
+        "title" : "Math"
+    },
+    
+    {
+        "title" : "Bit Manipulation"
+    },
+    {
+        "title" : "Geomatry Problems"
+    },
+    
+    {
+        "title" : "Design DS"
+    }
+   
+]

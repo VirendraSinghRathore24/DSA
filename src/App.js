@@ -9,6 +9,8 @@ import DesignPage from "./pages/DesignPage";
 import SystemDesignPage from "./pages/SystemDesignPage";
 import LowLevelDesignPage from "./pages/LowLevelDesignPage";
 import DesignPatternPage from "./pages/DesignPatternPage";
+import DataStructures from "./pages/DataStructures";
+import Footer from "./components/Footer";
 
 function App() {
 
@@ -24,8 +26,10 @@ function App() {
               <Route path="/System-Design" element={<SystemDesignPage/>}/>
               <Route path="/Low-Level-Design" element={<LowLevelDesignPage/>}/>
               <Route path="/Design-Pattern" element={<DesignPatternPage/>}/>
+              <Route path="/Data-Structures" element={<DataStructures/>}/>
               <Route path="/Graph" element={<GraphPage/>}/>
             </Routes>
+            <Footer/>
          </div>
   )
 }
