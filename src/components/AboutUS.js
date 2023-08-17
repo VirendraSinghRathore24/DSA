@@ -8,7 +8,7 @@ function AboutUS() {
     <div className='flex flex-wrap w-full'>
     <div className='flex flex-col ml-10 lg:w-8/12 xs:w-screen items-center font-normal p-5'>
             
-            <p className='leading-9 text-[18px] align-baseline text-justify'>Welcome to Master DSA. I am <strong> Virendra Singh Rathore </strong>, working in the IT Industory
+            <p className='leading-9 text-[18px] align-baseline text-justify'>Welcome to Master DSA. I am <strong> Virendra Singh Rathore</strong>, working in the software industory
              since year 2012. I have decided to create this website to help the society and get best and organized content for Interview
               Preparation.</p>
         <br/>
@@ -20,7 +20,7 @@ function AboutUS() {
              Thank you for visiting Master DSA website and I hope it is helpful for you.
              <br/>
              <br/>
-             Rejection is the part of process. Every interview is a new learning. Keep Smiling and Keep Learning.
+             Rejection is the part of process. Every interview is a new learning. Keep Smiling, Keep Learning and Keep Growing.
              </p>
              <br/>
              <p className='text-[18px] font-semibold'>Virendra Singh Rathore 
