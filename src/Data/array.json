@@ -1,37 +1,52 @@
 [
     {
         "title" : "2 Sum",
-        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "practiceurl" : "https://leetcode.com/problems/two-sum/",
         "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
     },
     {
         "title" : "3 Sum",
-        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "practiceurl" : "https://leetcode.com/problems/3sum/",
         "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
     },
     {
         "title" : "4 Sum",
-        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "practiceurl" : "https://leetcode.com/problems/4sum/",
         "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
     },
     {
         "title" : "3 Sum Closest",
-        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "practiceurl" : "https://leetcode.com/problems/3sum-closest/",
         "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
     },
     {
         "title" : "Remove Duplicates from Sorted Array",
-        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "practiceurl" : "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
+    },
+    {
+        "title" : "Remove Duplicates from Sorted Array II",
+        "practiceurl" : "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+        "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
+    },
+    {
+        "title" : "First Missing Positive",
+        "practiceurl" : "https://leetcode.com/problems/first-missing-positive/",
         "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
     },
     {
         "title" : "Maximum Subarray Sum - Kadane's Algorithm",
-        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "practiceurl" : "https://leetcode.com/problems/maximum-subarray/",
         "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
     },
     {
         "title" : "Container With Most Water",
-        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "practiceurl" : "https://leetcode.com/problems/container-with-most-water/",
+        "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
+    },
+    {
+        "title" : "Trapping Rain Water",
+        "practiceurl" : "https://leetcode.com/problems/trapping-rain-water/",
         "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
     }
 ]
