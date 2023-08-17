@@ -1,0 +1,37 @@
+[
+    {
+        "title" : "2 Sum",
+        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
+    },
+    {
+        "title" : "3 Sum",
+        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
+    },
+    {
+        "title" : "4 Sum",
+        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
+    },
+    {
+        "title" : "3 Sum Closest",
+        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
+    },
+    {
+        "title" : "Remove Duplicates from Sorted Array",
+        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
+    },
+    {
+        "title" : "Maximum Subarray Sum - Kadane's Algorithm",
+        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
+    },
+    {
+        "title" : "Container With Most Water",
+        "practiceurl" : "https://leetcode.com/problems/lru-cache/",
+        "youtubeurl" : "https://www.youtube.com/watch?v=xDEuM5qa0zg&t=1s"
+    }
+]

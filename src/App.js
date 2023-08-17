@@ -11,6 +11,7 @@ import LowLevelDesignPage from "./pages/LowLevelDesignPage";
 import DesignPatternPage from "./pages/DesignPatternPage";
 import DataStructures from "./pages/DataStructures";
 import Footer from "./components/Footer";
+import ArrayPage from "./pages/ArrayPage";
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
               <Route path="/Binary-Search" element={<SecondPage/>}/>
               <Route path="/Simple-Binary-Search" element={<Content/>}/>
               <Route path="/Design-DS" element={<DesignPage/>}/>
+              <Route path="/Array" element={<ArrayPage/>}/>
               <Route path="/System-Design" element={<SystemDesignPage/>}/>
               <Route path="/Low-Level-Design" element={<LowLevelDesignPage/>}/>
               <Route path="/Design-Pattern" element={<DesignPatternPage/>}/>

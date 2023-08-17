@@ -1,9 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { NavLink } from 'react-router-dom'
+import data from '../Data/array.json'
 
-import data from '../Data/design.json'
-
-function DesignPage() {
+function ArrayPage() {
     const [loading, setLoading] = useState(false);
     const [posts, setPosts] = useState([]);
     async function fetchBlogsData(){
@@ -29,7 +28,7 @@ function DesignPage() {
     
     <div>
         <div >
-        <p className='p-2 text-[16px]'><strong className='font-semibold '><NavLink to="/"> Home </NavLink><NavLink to="/Data-Structures"> / Data Structures  </NavLink></strong>  / Design DS</p>
+        <p className='p-2 text-[16px]'><strong className='font-semibold '><NavLink to="/"> Home </NavLink><NavLink to="/Data-Structures"> / Data Structures  </NavLink></strong>  / Array</p>
             <div className='flex flex-col gap-y-2 ml-1 mt-6 font-semibold'>
             <div className="overflow-x-auto sm:-mx-6 lg:-mx-8">
                 <div className="inline-block min-w-full py-2 sm:px-6 lg:px-8">
@@ -83,4 +82,4 @@ function DesignPage() {
   )
 }
 
-export default DesignPage
+export default ArrayPage
