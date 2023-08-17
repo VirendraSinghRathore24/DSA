@@ -11,7 +11,7 @@ function AboutUS() {
             <p className='leading-9 text-[18px] align-baseline text-justify'>Welcome to Master DSA. I am <strong> Virendra Singh Rathore </strong>, working in the IT Industory
              since year 2012. I have decided to create this website to help the society and get best and organized content for Interview
               Preparation.</p>
-        
+        <br/>
         
         <p className='leading-9 text-[18px]'>
             Here I have added Data Structures and Algorihtms problems, where you can practice and become confident solving them. Also I have added important
@@ -22,6 +22,7 @@ function AboutUS() {
              <br/>
              Rejection is the part of process. Every interview is a new learning. Keep Smiling and Keep Learning.
              </p>
+             <br/>
              <p className='text-[18px] font-semibold'>Virendra Singh Rathore 
              <br/>
                   <span>Software Engineer  </span></p>
