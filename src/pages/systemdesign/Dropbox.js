@@ -9,7 +9,7 @@ function Dropbox() {
         <div>
             <p className='p-10'>
                 <strong>Requirements: </strong>
-                <br/>
+                <br/><br/>
                 1. Users should be able to upload and download their files/photos from any device.
                 <br/>
                 2. Users should be able to share files or folders with other users.
@@ -22,13 +22,13 @@ function Dropbox() {
                 <br/>
                 <br/>
                 <strong>Non Functional Requirements:</strong>
-                <br/>
+                <br/><br/>
                 1. Highly Available
                 <br/>
                 2. Data should not lost
                 <br/><br/>
                 <strong>Design Consideration:</strong>
-                <br/>
+                <br/><br/>
                 We should expect huge read and write volumes.
                 <br/>
                 Read to write ratio is expected to be nearly the same.
@@ -41,9 +41,10 @@ provide a lot of benefits i.e. all failed operations shall only be retried for s
                 Keeping a local copy of the metadata (file name, size, etc.) with the client can save us a lot of round trips to the server.
 
                 <br/><br/>
-
+                <strong>Capacity Estimation:</strong>
+                <br/><br/>
                 <strong>High Level Diagram:</strong>
-                <br/>
+                <br/><br/>
                 The user will specify a folder as the workspace on their device. Any file/photo/folder placed in this folder will be uploaded to the cloud, and whenever a file is modified or
 deleted, it will be reflected in the same way in the cloud storage. The user can specify similar workspaces on all their devices and any modification done on one device will be propagated to all other devices to have the same view of the workspace everywhere.
 <br/><br/>
