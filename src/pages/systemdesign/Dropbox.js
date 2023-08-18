@@ -25,7 +25,7 @@ function Dropbox() {
                 <br/><br/>
                 1. Highly Available
                 <br/>
-                2. Data should not lost
+                2. Reliability, Durability and Scalability
                 <br/><br/>
                 <strong>Design Consideration:</strong>
                 <br/><br/>
