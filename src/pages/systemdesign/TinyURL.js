@@ -16,7 +16,7 @@ function TinyURL() {
                 <br/>
                 3. Short url should be unique
                 <br/>
-                4. User can pass unique name for url as well
+                4. User can choose custom url
                 <br/>
                 <br/>
 
@@ -27,9 +27,15 @@ function TinyURL() {
                 <br/><br/>
 
                 <strong>Components Discussion:</strong>
+                <p>
+                    
+                </p>
                 <br/><br/>
 
                 <strong>DB Choice:</strong>
+                <p>
+
+                </p>
             </p>
         </div>
     </div>

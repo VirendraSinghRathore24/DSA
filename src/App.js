@@ -14,6 +14,7 @@ import Footer from "./components/Footer";
 import ArrayPage from "./pages/ArrayPage";
 import AboutUS from "./components/AboutUS";
 import TinyURL from "./pages/systemdesign/TinyURL";
+import Dropbox from "./pages/systemdesign/Dropbox";
 
 function App() {
 
@@ -34,7 +35,8 @@ function App() {
               <Route path="/Data-Structures" element={<DataStructures/>}/>
               <Route path="/Graph" element={<GraphPage/>}/>
 
-              <Route path="/tiny-url" element={<TinyURL/>}/>              
+              <Route path="/tiny-url" element={<TinyURL/>}/>       
+              <Route path="/dropbox" element={<Dropbox/>}/>          
             </Routes>
             <Footer/>
          </div>
