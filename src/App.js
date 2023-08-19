@@ -15,6 +15,7 @@ import ArrayPage from "./pages/ArrayPage";
 import AboutUS from "./components/AboutUS";
 import TinyURL from "./pages/systemdesign/TinyURL";
 import Dropbox from "./pages/systemdesign/Dropbox";
+import YouTube from "./pages/systemdesign/YouTube";
 
 function App() {
 
@@ -36,7 +37,8 @@ function App() {
               <Route path="/Graph" element={<GraphPage/>}/>
 
               <Route path="/tiny-url" element={<TinyURL/>}/>       
-              <Route path="/dropbox" element={<Dropbox/>}/>          
+              <Route path="/dropbox" element={<Dropbox/>}/>   
+              <Route path="/youtube" element={<YouTube/>}/>           
             </Routes>
             <Footer/>
          </div>

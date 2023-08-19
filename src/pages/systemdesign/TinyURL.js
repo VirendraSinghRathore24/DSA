@@ -5,9 +5,9 @@ function TinyURL() {
   return (
     <div >
         <p className='p-2 text-[16px]'><strong className='font-semibold '><NavLink to="/"> Home </NavLink><NavLink to="/System-Design"> / System Design  </NavLink></strong>  / Tiny URL</p>
-        <div className='flex flex-wrap w-full items-center justify-center font-semibold text-xl'>Tiny URL -  URL Shortner</div>
+        <div className='flex flex-wrap w-full items-center justify-center font-semibold text-xl p-2'>Tiny URL -  URL Shortner</div>
         <div>
-            <p className='ml-4'>
+            <p className='p-10'>
                 <strong>Requirements: </strong>
                 <br/>
                 1. User should be able to create short url link for long url
@@ -28,7 +28,7 @@ function TinyURL() {
 
                 <strong>Components Discussion:</strong>
                 <p>
-                    
+
                 </p>
                 <br/><br/>
 

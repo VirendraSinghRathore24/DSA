@@ -17,7 +17,8 @@
         "title" : "Instagram"
     },
     {
-        "title" : "Youtube or Netflix"
+        "title" : "Youtube or Netflix",
+        "link" : "youtube"
     },
     {
         "title" : "Video Streaming - Hotstar"
