@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom'
 function TinyURL() {
   return (
     <div >
-        <p className='p-2 text-[16px]'><strong className='font-semibold '><NavLink to="/"> Home </NavLink><NavLink to="/System-Design"> / System Design  </NavLink></strong>  / Tiny URL</p>
+        <p className='p-2 text-[16px]'><strong className='font-semibold '><NavLink to="/"> Home </NavLink><NavLink to="/System-Design"> / System Design  </NavLink><NavLink to="/real-Life-Apps"> / System Design Apps </NavLink></strong>  / Tiny URL</p>
         <div className='flex flex-wrap w-full items-center justify-center font-semibold text-xl p-2'>Tiny URL -  URL Shortner</div>
         <div>
             <p className='p-10'>
