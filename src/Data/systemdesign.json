@@ -1,65 +1,8 @@
 [
     {
-        "title" : "Tiny Url or URL Shortner",
-        "link" : "tiny-url"
+        "title" : "System Design Basics"
     },
     {
-        "title" : "Dropbox or Google Drive",
-        "link" : "dropbox"
-    },
-    {
-        "title" : "API Rate Limiter"
-    },
-    {
-        "title" : "Type Ahead Suggestions"
-    },
-    {
-        "title" : "Instagram"
-    },
-    {
-        "title" : "Youtube or Netflix",
-        "link" : "youtube"
-    },
-    {
-        "title" : "Video Streaming - Hotstar"
-    },
-    {
-        "title" : "WhatsApp"
-    },
-    {
-        "title" : "Facebook Newsfeed"
-    },
-    {
-        "title" : "Proximity Server"
-    },
-    {
-        "title" : "Uber Backend"
-    },
-    {
-        "title" : "Book My Show"
-    },
-    {
-        "title" : "Task Schedular"
-    },
-    {
-        "title" : "Google Docs"
-    },
-    {
-        "title" : "Google Search Engine"
-    },
-    {
-        "title" : "Push and Long Polling"
-    },
-    {
-        "title" : "How to deliver millions of packages to clients"
-    },
-    {
-        "title" : "Message Broker or Kafka"
-    },
-    {
-        "title" : "TCP and UDP"
-    },
-    {
-        "title" : "Workflow Engine"
+        "title" : "Real Life Apps"
     }
 ]

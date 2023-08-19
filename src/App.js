@@ -16,6 +16,7 @@ import AboutUS from "./components/AboutUS";
 import TinyURL from "./pages/systemdesign/TinyURL";
 import Dropbox from "./pages/systemdesign/Dropbox";
 import YouTube from "./pages/systemdesign/YouTube";
+import SystemDesignMainPage from "./pages/SystemDesignMainPage";
 
 function App() {
 
@@ -30,7 +31,8 @@ function App() {
               <Route path="/Simple-Binary-Search" element={<Content/>}/>
               <Route path="/Design-DS" element={<DesignPage/>}/>
               <Route path="/Array" element={<ArrayPage/>}/>
-              <Route path="/System-Design" element={<SystemDesignPage/>}/>
+              <Route path="/System-Design" element={<SystemDesignMainPage/>}/>
+              <Route path="/real-Life-Apps" element={<SystemDesignPage/>}/>
               <Route path="/Low-Level-Design" element={<LowLevelDesignPage/>}/>
               <Route path="/Design-Pattern" element={<DesignPatternPage/>}/>
               <Route path="/Data-Structures" element={<DataStructures/>}/>
