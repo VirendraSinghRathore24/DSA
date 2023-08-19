@@ -39,7 +39,7 @@ function DesignPatternPage() {
                         <tr>
                         <th scope="col" className="px-6 py-4">#</th>
                         <th scope="col" className="px-6 py-4">Problem</th>
-                
+                        <th scope="col" className="px-6 py-4">Article</th>
                         </tr>
                     </thead>
             <tbody>
