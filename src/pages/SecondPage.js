@@ -26,7 +26,7 @@ function HomePage() {
   return (
 
     
-    <div className='pointer-events-none'>
+    <div >
        
         <div>
         <p className='text-md font-light py-3 px-10'><strong className='font-semibold text-richblack-700'>To Master in DSA.. Pattern based problems </strong></p>

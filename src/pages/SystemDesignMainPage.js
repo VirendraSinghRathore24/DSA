@@ -27,7 +27,7 @@ function SystemDesignMainPage() {
   return (
 
     
-    <div className='pointer-events-none'>
+    <div>
        <p className='p-2 text-[16px]'><strong className='font-semibold '><NavLink to="/"> Home </NavLink></strong>/ System Design </p>
         <div>
         <div className='grid xs:grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 2xl:grid-cols-5 px-10 py-5 gap-x-10 gap-y-10'>

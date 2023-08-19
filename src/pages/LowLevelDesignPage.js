@@ -27,7 +27,7 @@ function LowLevelDesignPage() {
   return (
 
     
-    <div className='pointer-events-none'>
+    <div>
         <div >
         <p className='p-2 text-[16px]'><strong className='font-semibold '><NavLink to="/"> Home </NavLink></strong> / Low Level Design</p>
             <div className='flex flex-col gap-y-5 ml-1 mt-10 font-semibold'>
