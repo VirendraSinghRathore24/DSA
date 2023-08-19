@@ -1,6 +1,7 @@
 [
     {
-        "title" : "Singleton"
+        "title" : "Singleton",
+        "link" : "singleton"
     },
     {
         "title" : "Factory"
