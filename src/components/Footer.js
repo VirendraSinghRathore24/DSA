@@ -12,7 +12,7 @@ function Footer() {
                 <a href="https://leetcode.com/Viren21/" target="_blank" rel="noreferrer">
                  <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1691844715/leetcode_qjndoy.png' alt='instagram' className='w-[50px] h-[50px]'/>
                 </a>
-                <Link to="https://www.youtube.com/@MommyGK" target="_blank" rel="noreferrer">
+                <Link to="https://www.youtube.com/channel/UCHW2UhCi82KdKRlpWq-4_1Q" target="_blank" rel="noreferrer">
                 <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1688707836/youtube-1837872_1280_oicf29.png' alt='youtube' className='w-[40px] h-[40px] mt-2'/>
                 </Link>
                 <a href="https://www.linkedin.com/in/virendra-singh-rathore/" target="_blank" rel="noreferrer">

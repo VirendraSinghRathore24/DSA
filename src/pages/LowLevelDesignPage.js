@@ -29,6 +29,7 @@ function LowLevelDesignPage() {
     
     <div className='pointer-events-none'>
         <div >
+        <p className='p-2 text-[16px]'><strong className='font-semibold '><NavLink to="/"> Home </NavLink></strong> / Low Level Design</p>
             <div className='flex flex-col gap-y-5 ml-1 mt-10 font-semibold'>
             <div className="overflow-x-auto sm:-mx-6 lg:-mx-8">
                 <div className="inline-block min-w-full py-2 sm:px-6 lg:px-8">
