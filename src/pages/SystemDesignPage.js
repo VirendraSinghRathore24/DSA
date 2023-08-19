@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { NavLink } from 'react-router-dom'
 
-import data from '../Data/systemdesignreallifesolutions.json'
+import data from '../Data/systemdesignapps.json'
 
 function SystemDesignPage() {
     const [loading, setLoading] = useState(false);

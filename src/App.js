@@ -32,7 +32,7 @@ function App() {
               <Route path="/Design-DS" element={<DesignPage/>}/>
               <Route path="/Array" element={<ArrayPage/>}/>
               <Route path="/System-Design" element={<SystemDesignMainPage/>}/>
-              <Route path="/real-Life-Apps" element={<SystemDesignPage/>}/>
+              <Route path="/System-Design-Apps" element={<SystemDesignPage/>}/>
               <Route path="/Low-Level-Design" element={<LowLevelDesignPage/>}/>
               <Route path="/Design-Pattern" element={<DesignPatternPage/>}/>
               <Route path="/Data-Structures" element={<DataStructures/>}/>
