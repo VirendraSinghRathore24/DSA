@@ -5,7 +5,7 @@ function Dropbox() {
   return (
     <div >
         <p className='p-2 text-[16px]'><strong className='font-semibold '><NavLink to="/"> Home </NavLink><NavLink to="/System-Design"> / System Design  </NavLink></strong>  / Dropbox</p>
-        <div className='flex flex-wrap w-full items-center justify-center font-semibold text-xl'>Dropbox / Google Drive / One Drive / Cloud Storage</div>
+        <div className='flex flex-wrap w-full items-center justify-center font-semibold text-xl p-2'>Dropbox / Google Drive / One Drive / Cloud Storage</div>
         <div>
             <p className='p-10'>
                 <strong>Requirements: </strong>
@@ -58,7 +58,7 @@ Metadata servers will keep metadata of files updated in a SQL or NoSQL database.
 <br/>
 Synchronization servers will handle the workflow of notifying all clients about different changes for synchronization.
 <br/><br/>
-<img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1692357372/Screenshot_2023-08-18_at_4.43.22_PM_tgqdku.png" className='w-[600px] h-[300px]'></img>
+<img src="https://res.cloudinary.com/dixqxdivr/image/upload/v1692357372/Screenshot_2023-08-18_at_4.43.22_PM_tgqdku.png" loading='lazy' className='w-[600px] h-[300px]'></img>
                 <br/><br/>
 
                 <strong>Components Discussion:</strong>
@@ -100,7 +100,7 @@ those parts to the Cloud Storage; this will save us bandwidth and synchronizatio
                 <strong>IV. Indexer </strong>will process the events received from the Watcher and update the internal metadata database with information about the chunks of the modified files. Once the chunks are successfully submitted/downloaded to the Cloud Storage, the Indexer will communicate with the remote Synchronization Service to broadcast
 changes to other clients and update remote metadata database.
 <br/><br/>
-                <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1692359001/Screenshot_2023-08-18_at_5.13.00_PM_khfm56.png' className='w-[600px] h-[300px]'></img>
+                <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1692359001/Screenshot_2023-08-18_at_5.13.00_PM_khfm56.png' loading='lazy' className='w-[600px] h-[300px]'></img>
 
                 <br/><br/>
 
@@ -143,13 +143,13 @@ should be able to provide a consistent view of the files using a database, espec
                 <br/>
                 <strong>Response Queues - </strong>that correspond to individual subscribed clients are responsible for delivering the update messages to each client. Since a message will be deleted from the queue once received by a client, we need to create separate Response Queues for each subscribed client to share update messages.
                 <br/><br/>
-                <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1692359862/Screenshot_2023-08-18_at_5.27.12_PM_lqsy9o.png' className='w-[600px] h-[300px]'></img>
+                <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1692359862/Screenshot_2023-08-18_at_5.27.12_PM_lqsy9o.png' loading='lazy' className='w-[600px] h-[300px]'></img>
                 <br/><br/>
                 <strong>E. Cloud/Block Storage:</strong>
                 <br/><br/>
                 Cloud/Block Storage stores chunks of files uploaded by the users. Clients directly interact with the storage to send and receive objects from it. Separation of the metadata from storage enables us to use any storage either in the cloud or in-house.
                 <br/><br/>
-                <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1692360062/Screenshot_2023-08-18_at_5.30.40_PM_pu5fwg.png' className='w-[600px] h-[300px]'></img>
+                <img src='https://res.cloudinary.com/dixqxdivr/image/upload/v1692360062/Screenshot_2023-08-18_at_5.30.40_PM_pu5fwg.png' loading='lazy' className='w-[600px] h-[300px]'></img>
                 <br/><br/>
                 <strong>File Processing Workflow:</strong>
                 <br/><br/>
