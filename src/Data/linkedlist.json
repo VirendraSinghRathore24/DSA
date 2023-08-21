@@ -28,5 +28,10 @@
         "title" : "Swap Nodes in Pairs",
         "practiceurl" : "https://leetcode.com/problems/swap-nodes-in-pairs/",
         "youtubeurl" : "https://leetcode.com/problems/reverse-linked-list-ii/"
+    },
+    {
+        "title" : "Intersection of Two Linked List",
+        "practiceurl" : "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "youtubeurl" : "https://leetcode.com/problems/reverse-linked-list-ii/"
     }
 ]
