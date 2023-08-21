@@ -17,6 +17,7 @@ import TinyURL from "./pages/systemdesign/TinyURL";
 import Dropbox from "./pages/systemdesign/Dropbox";
 import YouTube from "./pages/systemdesign/YouTube";
 import SystemDesignMainPage from "./pages/SystemDesignMainPage";
+import LinkedListPage from "./pages/LinkedListPage";
 
 function App() {
 
@@ -31,6 +32,7 @@ function App() {
               <Route path="/Simple-Binary-Search" element={<Content/>}/>
               <Route path="/Design-DS" element={<DesignPage/>}/>
               <Route path="/Array" element={<ArrayPage/>}/>
+              <Route path="/Linked-List" element={<LinkedListPage/>}/>
               <Route path="/System-Design" element={<SystemDesignMainPage/>}/>
               <Route path="/System-Design-Apps" element={<SystemDesignPage/>}/>
               <Route path="/Low-Level-Design" element={<LowLevelDesignPage/>}/>
