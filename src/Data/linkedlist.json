@@ -8,5 +8,25 @@
         "title" : "Reverse Linked List II",
         "practiceurl" : "https://leetcode.com/problems/reverse-linked-list-ii/",
         "youtubeurl" : "https://leetcode.com/problems/reverse-linked-list-ii/"
+    },
+    {
+        "title" : "Reverse Nodes in K Groups",
+        "practiceurl" : "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "youtubeurl" : "https://leetcode.com/problems/reverse-linked-list-ii/"
+    },
+    {
+        "title" : "Palindrome Linked List with/without Recursion",
+        "practiceurl" : "https://leetcode.com/problems/palindrome-linked-list/",
+        "youtubeurl" : "https://leetcode.com/problems/reverse-linked-list-ii/"
+    },
+    {
+        "title" : "Odd Even Linked List",
+        "practiceurl" : "https://leetcode.com/problems/odd-even-linked-list/",
+        "youtubeurl" : "https://leetcode.com/problems/reverse-linked-list-ii/"
+    },
+    {
+        "title" : "Swap Nodes in Pairs",
+        "practiceurl" : "https://leetcode.com/problems/swap-nodes-in-pairs/",
+        "youtubeurl" : "https://leetcode.com/problems/reverse-linked-list-ii/"
     }
 ]
